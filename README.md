@@ -1,5 +1,5 @@
 # CISSP®️ Certification Domain 6 — Security Assessment and Testing Video Boot Camp for 2022
-This is the code repository for [CISSP®️ Certification Domain 6 — Security Assessment and Testing Video Boot Camp for 2022 [Video]](https://subscription.packtpub.com/video/application-development/9781838643393), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [CISSP®️ Certification Domain 6 — Security Assessment and Testing Video Boot Camp for 2022 [Video]](https://www.packtpub.com/product/cissp-certification-domain-6-security-assessment-and-testing-video-boot-camp-for-2022/9781838643393?_ga=2.93925021.1821478721.1660805166-1836380341.1660805166), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ### We teach you the 4 things you need to pass your CISSP exam!
 
